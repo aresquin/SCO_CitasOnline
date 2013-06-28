@@ -9,6 +9,7 @@ Grupo: G5
 
 Integrantes:
   Antonio Resquin Orovio
+  ------
   Luis Cordova Leon
   Johon Cholan Farromeque
   Joel Tubillas Injante
